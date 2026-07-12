@@ -51,7 +51,7 @@ CoinFlip-Simulator/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Akshaykompally/Flip-A-Coin.git
+git clone https://github.com/Akshaykompally/CoinFlip-Simulator.git
 ```
 
 ### Open the Project
